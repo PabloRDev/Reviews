@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PabloRDev/Reviews/static/css/main.60ce4188.chunk.css",
+    "main.js": "/PabloRDev/Reviews/static/js/main.ddf7e1e6.chunk.js",
+    "main.js.map": "/PabloRDev/Reviews/static/js/main.ddf7e1e6.chunk.js.map",
+    "runtime-main.js": "/PabloRDev/Reviews/static/js/runtime-main.ea19a06e.js",
+    "runtime-main.js.map": "/PabloRDev/Reviews/static/js/runtime-main.ea19a06e.js.map",
+    "static/js/2.d3782787.chunk.js": "/PabloRDev/Reviews/static/js/2.d3782787.chunk.js",
+    "static/js/2.d3782787.chunk.js.map": "/PabloRDev/Reviews/static/js/2.d3782787.chunk.js.map",
+    "static/js/3.063cea1d.chunk.js": "/PabloRDev/Reviews/static/js/3.063cea1d.chunk.js",
+    "static/js/3.063cea1d.chunk.js.map": "/PabloRDev/Reviews/static/js/3.063cea1d.chunk.js.map",
+    "index.html": "/PabloRDev/Reviews/index.html",
+    "static/css/main.60ce4188.chunk.css.map": "/PabloRDev/Reviews/static/css/main.60ce4188.chunk.css.map",
+    "static/js/2.d3782787.chunk.js.LICENSE.txt": "/PabloRDev/Reviews/static/js/2.d3782787.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea19a06e.js",
+    "static/js/2.d3782787.chunk.js",
+    "static/css/main.60ce4188.chunk.css",
+    "static/js/main.ddf7e1e6.chunk.js"
+  ]
+}
